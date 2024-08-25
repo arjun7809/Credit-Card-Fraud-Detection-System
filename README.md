@@ -1,12 +1,12 @@
-Name: JAYMIN SHELADIA
+Name: ARJUN SINGH BHANDARI
 
 Company: CODTECH IT SOLUTIONS
 
-ID: CT8ML1184
+ID: CT6WDS1903
 
 Domain: MACHINE LEARNING
 
-Duration: June to August 2024
+Duration: July to September 2024
 
 Mentor: NEELAM HARISH
 
