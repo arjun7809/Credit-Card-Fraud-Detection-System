@@ -8,7 +8,7 @@ Domain: MACHINE LEARNING
 
 Duration: July to September 2024
 
-Mentor: NEELAM HARISH
+Mentor: Muzammil Ahmed
 
 
 
